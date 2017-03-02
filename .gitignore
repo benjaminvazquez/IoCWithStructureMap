@@ -3,3 +3,7 @@
 ################################################################################
 
 /IoCWithStructureMap/Mk.DomainEventsManager.Use/bin/Debug
+/IoCWithStructureMap/Mk.DomainEventsManager/bin/Debug
+/IoCWithStructureMap/Mk.DomainEventsManager/obj/Debug
+/IoCWithStructureMap/Mk.DomainEventsManager.Use/obj/Debug
+/IoCWithStructureMap/packages/StructureMap.4.4.3
